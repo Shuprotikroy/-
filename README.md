@@ -1,4 +1,6 @@
+## Refer to the linkedin post in the about section to get a video tutorial on how the interactive report works
 
+![Screenshot (186)](https://github.com/Shuprotikroy/Educational-Background-Domicile-Distribution-Of-Indian-Prisoners-Report-MS-Excel-/assets/70252750/0edc11a3-50e8-48d5-93c4-3f8637ed4e24)
 
 Using 𝐄𝐱𝐜𝐞𝐥'𝐬 𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲, generated a two sheet interactive excel pivot table report:-
 
