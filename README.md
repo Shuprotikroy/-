@@ -1,6 +1,8 @@
-## Refer to the linkedin post in the about section to get a video tutorial on how the interactive report works
+# 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝 & 𝐃𝐨𝐦𝐢𝐜𝐢𝐥𝐞 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐎𝐟 𝐈𝐧𝐝𝐢𝐚𝐧 𝐏𝐫𝐢𝐬𝐨𝐧𝐞𝐫𝐬(𝐒𝐭𝐚𝐭𝐞/𝐔𝐭𝐰𝐢𝐬𝐞 𝐑𝐞𝐩𝐨𝐫𝐭)
 
 ![Screenshot (186)](https://github.com/Shuprotikroy/Educational-Background-Domicile-Distribution-Of-Indian-Prisoners-Report-MS-Excel-/assets/70252750/0edc11a3-50e8-48d5-93c4-3f8637ed4e24)
+
+
 
 Using 𝐄𝐱𝐜𝐞𝐥'𝐬 𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲, generated a two sheet interactive excel pivot table report:-
 
@@ -14,3 +16,5 @@ Choosing the filter options returns a set of values in the descending order repr
 User can filter through states/ut's on the right hand side which will return number for three categories for a particular state/ut or multiple state/ut's
 
 Furthermore, percent distribution of all three categories has been shown on the right hand side and there's a dynamic pie chart that updates based upon the filter selection.
+
+###  Refer to the linkedin post in the about section to get a video tutorial of the interactive dashboard
