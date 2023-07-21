@@ -1,4 +1,5 @@
 # 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝 & 𝐃𝐨𝐦𝐢𝐜𝐢𝐥𝐞 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐎𝐟 𝐈𝐧𝐝𝐢𝐚𝐧 𝐏𝐫𝐢𝐬𝐨𝐧𝐞𝐫𝐬(𝐒𝐭𝐚𝐭𝐞/𝐔𝐭𝐰𝐢𝐬𝐞 𝐑𝐞𝐩𝐨𝐫𝐭)
+## The About section on the top right side of this project consists of a linkedin post link wherein this project has been explained in further detail
 
 ![Screenshot (186)](https://github.com/Shuprotikroy/Educational-Background-Domicile-Distribution-Of-Indian-Prisoners-Report-MS-Excel-/assets/70252750/0edc11a3-50e8-48d5-93c4-3f8637ed4e24)
 
